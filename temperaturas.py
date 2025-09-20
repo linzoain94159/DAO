@@ -1,4 +1,5 @@
 import random
+random.seed()
 
 def bajo_cero(temperaturas):
     cantidad = 0
